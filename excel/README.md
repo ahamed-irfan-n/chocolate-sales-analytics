@@ -86,6 +86,7 @@ Note: Microsoft Excel or a compatible spreadsheet application is required to ope
 * Converted raw sales information into meaningful business insights. 
 
 👨‍💻 10. Author
+
 Ahamed Irfan N
 
 Aspiring Data Analyst | Python(pandas) |numpy| SQL | Excel | Power BI

@@ -14,7 +14,9 @@ It transforms raw sales data into meaningful visual insights to support business
 
 The following screenshot provides a preview of the interactive Power BI dashboard.
 
-View Dashboard Screenshot
+![Chocolate Sales Dashboard](./dashboard.png)
+
+[Click here to view the Dashboard Screenshot](./dashboard.png)
 
 🎯 3. Business Objectives
 

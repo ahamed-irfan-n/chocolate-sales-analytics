@@ -140,9 +140,7 @@ The Power BI dashboard provides an interactive overview of chocolate sales perfo
 
 ### 🖼️ Dashboard Preview
 
-![Chocolate Sales Dashboard](./dashboard.png)
-
-[Click here to view the Dashboard Screenshot](./dashboard.png)
+https://github.com/ahamed-irfan-n/chocolate-sales-analytics/blob/main/powerbi/dashboard.png
 
 ## 💡 Business Questions & Insights
 

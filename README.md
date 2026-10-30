@@ -121,7 +121,9 @@ Microsoft Excel is used to analyze the cleaned dataset through PivotTables.
 
 ### 🖼️ Excel Analysis Preview
 
-![Excel Sales Analysis](excel_analysis.png)
+![Chocolate Sales Excel Dashboard](./excel_analysis.png)
+
+[Click here to view the Excel Dashboard Screenshot](./excel_analysis.png)
 
 ## 📊 Power BI Dashboard
 
@@ -140,7 +142,9 @@ The Power BI dashboard provides an interactive overview of chocolate sales perfo
 
 ### 🖼️ Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Chocolate Sales Dashboard](./dashboard.png)
+
+[Click here to view the Dashboard Screenshot](./dashboard.png)
 
 ## 💡 Business Questions & Insights
 

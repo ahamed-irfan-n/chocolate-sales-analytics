@@ -283,7 +283,7 @@ The original dataset remains subject to its creator’s licensing terms. Please 
 
 *Ahamed Irfan N*
 
-Aspiring Data Analyst | Python (Pandas) | SQL | Excel | Power BI
+Aspiring Data Analyst | Python (Pandas)(numpy)| SQL | Excel | Power BI
 
 - *GitHub:* https://github.com/ahamed-irfan-n
 - *LinkedIn:* https://linkedin.com/in/ahamed-irfan-n-5b5303418

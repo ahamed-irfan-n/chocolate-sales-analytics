@@ -96,4 +96,4 @@ Note: Microsoft Power BI Desktop is required to open and interact with the .pbix
 
 Ahamed Irfan N
 
-Aspiring Data Analyst | Python(pandas) |numpy| SQL | Excel | Power BI
+Aspiring Data Analyst | Python(pandas)(numpy)| SQL | Excel | Power BI

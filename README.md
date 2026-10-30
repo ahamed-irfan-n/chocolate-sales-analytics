@@ -121,9 +121,7 @@ Microsoft Excel is used to analyze the cleaned dataset through PivotTables.
 
 ### 🖼️ Excel Analysis Preview
 
-![Chocolate Sales Excel Dashboard](./excel_analysis.png)
-
-[Click here to view the Excel Dashboard Screenshot](./excel_analysis.png)
+https://github.com/ahamed-irfan-n/chocolate-sales-analytics/blob/main/excel/excel_analysis.png
 
 ## 📊 Power BI Dashboard
 

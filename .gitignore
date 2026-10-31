@@ -1,0 +1,22 @@
+Python
+
+pycache/
+*.py[cod]
+
+Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Virtual Environment
+
+venv/
+.venv/
+
+Environment Variables
+
+.env
+
+Temporary Files
+
+*.tmp
+*.log

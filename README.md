@@ -259,7 +259,7 @@ Replace the repository URL if your actual GitHub repository uses a different nam
 
 - *Dataset Name:* Chocolate Sales Dataset
 - *Dataset Source:* Kaggle — Chocolate Sales Dataset
-- *Original Creator:* Atharva Soundankar
+- *Original dataset Creator:* Atharva Soundankar
 - *Dataset Link:* https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
 
 This project uses the Chocolate Sales dataset from Kaggle for educational purposes, data analytics practice, and portfolio development.

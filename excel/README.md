@@ -89,4 +89,4 @@ Note: Microsoft Excel or a compatible spreadsheet application is required to ope
 
 Ahamed Irfan N
 
-Aspiring Data Analyst | Python(pandas)(numpy)| SQL | Excel | Power BI
+Aspiring Data Analyst | Python(pandas,numpy)| SQL | Excel | Power BI
